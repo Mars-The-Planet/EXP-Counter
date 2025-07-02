@@ -69,6 +69,7 @@ dependencies {
     annotationProcessor("org.spongepowered:mixin:0.8.5-SNAPSHOT:processor")
 
     // Forge's hack fix
+    annotationProcessor 'net.minecraftforge:eventbus-validator:7.0-beta.10'
     implementation('net.sf.jopt-simple:jopt-simple:5.0.4') { version { strictly '5.0.4' } }
     implementation "maven.modrinth:deimos:${project.minecraft_version}-forge-${project.deimos_version}"
 }
