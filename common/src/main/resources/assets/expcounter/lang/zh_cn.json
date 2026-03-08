@@ -1,0 +1,11 @@
+{
+  "expcounter.deimosconfig.title": "EXP Counter 配置",
+  "expcounter.deimosconfig.show_next_level": "显示距离下一级还需多少经验",
+  "expcounter.deimosconfig.show_total": "显示总经验值",
+  "expcounter.deimosconfig.color_next_level": "距离下一级经验计数器的颜色（十进制）",
+  "expcounter.deimosconfig.color_total": "总经验值计数器的颜色（十进制）",
+  "expcounter.deimosconfig.position_off_centre_next_level": "距离下一级经验计数器 X 偏移量",
+  "expcounter.deimosconfig.position_y_next_level": "距离下一级经验计数器 Y 偏移量",
+  "expcounter.deimosconfig.position_off_centre_total": "总经验值计数器 X 偏移量",
+  "expcounter.deimosconfig.position_y_total": "总经验值计数器 Y 偏移量"
+}
