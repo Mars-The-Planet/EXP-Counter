@@ -5,7 +5,9 @@
   "name": "${mod_name}",
   "description": "${description}",
   "authors": [
-    "${mod_author}"
+    "${mod_author}",
+    "sources": "${sources}",
+    "issues": "${issues}"
   ],
   "contact": {
     "homepage": "${homepage}"
